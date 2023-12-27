@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Test Mercado Libre</string>
+    <string name="normal_delivery">Envío con normalidad</string>
+    <string name="example_product_title">Botines adidas Fútbol Cinco Predator 20.3</string>
+    <string name="example_product_price">$2.839</string>
+    <string name="example_product_percent">18% OFF</string>
+    <string name="example_product_seller_by">Vendido por adidas Performance</string>
+    <string name="input_product">Ingrese un artículo a buscar…</string>
+    <string name="empty_search_results">No hay artículos encontrados</string>
+    <string name="product_picture">Imagen del producto</string>
+    <string name="search_failed">¡Ups! Chequea tu conexión en intenta nuevamente</string>
+    <string name="searching">Buscando…</string>
+    <plurals name="results_found">
+        <item quantity="zero">No hay resultados encontrados</item>
+        <item quantity="one">1 resultado encontrado</item>
+        <item quantity="other">%1$d resultados encontrados</item>
+    </plurals>}
+    <string name="sold_by">"Vendido por"</string>
 </resources>
